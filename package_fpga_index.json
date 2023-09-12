@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "fpga",
+      "maintainer": "kanade-k-1228",
+      "websiteURL": "https://kanade-k-1228.github.io",
+      "platforms": [],
+      "tools": []
+    }
+  ]
+}
